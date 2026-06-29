@@ -101,6 +101,7 @@ const ChannelMZ = () => {
                         href="https://www.youtube.com/@mathematicszoneraipur9736/playlists" 
                         target="_blank" 
                         rel="noreferrer" 
+                        className="explore-mz-btn"
                         style={styles.themedBtn}
                     >
                         <MonitorPlay size={20} />

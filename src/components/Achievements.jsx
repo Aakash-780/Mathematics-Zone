@@ -49,7 +49,7 @@ const Achievements = () => {
                         <Award size={14} /> MZ CHAMPIONS
                     </div>
                     <h2 style={styles.heading}>
-                        BOARD <span style={styles.gradientText}>EXCELLENCE</span> BOARD
+                        MZ <span style={styles.gradientText}>BOARD</span> ACHIEVEMENTS
                     </h2>
                     <p style={styles.subText}>
                         Transforming complex board syllabus into top tier results. Here are our outstanding scorers in Class 10th and 12th boards.
