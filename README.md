@@ -123,7 +123,8 @@ npm run build
 ## 👨‍🏫 About Section
 
 <p align="center">
-  <img src="./screenshots/about.png" alt="About Section">
+  <img src="![Uploading Screenshot 2026-06-29 at 12.48.45 PM.png…]()
+" alt="About Section">
 </p>
 
 ---
