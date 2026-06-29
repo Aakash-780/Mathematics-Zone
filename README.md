@@ -110,40 +110,6 @@ npm run build
 
 ---
 
-# 📸 Website Preview
-
-## 🏠 Home Page
-
-<p align="center">
-  <img src="./screenshots/home.png" alt="Home Page">
-</p>
-
----
-
-## 👨‍🏫 About Section
-
-<p align="center">
-  <img src="![Uploading Screenshot 2026-06-29 at 12.48.45 PM.png…]()
-" alt="About Section">
-</p>
-
----
-
-## 📚 Courses Section
-
-<p align="center">
-  <img src="./screenshots/courses.png" alt="Courses Section">
-</p>
-
----
-
-## 📩 Contact Section
-
-<p align="center">
-  <img src="./screenshots/contact.png" alt="Contact Section">
-</p>
-
----
 
 ## 📋 Website Sections
 
