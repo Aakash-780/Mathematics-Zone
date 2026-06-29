@@ -1,17 +1,157 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📚 Mathematic Zone
 
-Currently, two official plugins are available:
+### A Modern Educational Website for Mathematics Learning
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Built with **React**, **Vite**, and modern web technologies to provide an engaging learning experience.
 
-## React Compiler
+</div>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📖 About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Mathematics-Zone
+**Mathematic Zone** is a modern, responsive educational platform designed to make mathematics learning interactive and engaging. The website showcases courses, achievements, quizzes, social media integration, and provides students with an intuitive user experience.
+
+This project was developed as a **professional freelance project**, focusing on clean UI, responsiveness, performance, and user experience.
+
+---
+
+## ✨ Features
+
+- 🎯 Modern & Responsive UI
+- 📚 Mathematics Courses Section
+- 🧠 Interactive Quiz Section
+- 🏆 Achievements Showcase
+- 📱 Mobile Friendly Design
+- 🎨 Smooth Animations
+- 🌙 Theme Support
+- 📺 YouTube Integration
+- 📸 Instagram Feed
+- 📩 Contact Section
+- ⚡ Fast Loading with Vite
+- 🎭 Custom Cursor & Preloader
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| React | Frontend Framework |
+| Vite | Build Tool |
+| JavaScript (ES6+) | Programming Language |
+| CSS3 | Styling |
+| GSAP | Animations |
+| Anime.js | Motion Effects |
+| Lottie | Interactive Animations |
+| Lucide React | Icons |
+| React Router | Navigation |
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+│
+├── assets/
+├── components/
+├── context/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/mathematic-zone.git
+```
+
+### Navigate to Project
+
+```bash
+cd mathematic-zone
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 📸 Website Sections
+
+- Hero Section
+- About
+- Courses
+- Achievements
+- Quizzes
+- YouTube Channel
+- Instagram Feed
+- Contact
+- Footer
+
+---
+
+## 🎯 Performance
+
+- Responsive across devices
+- Optimized assets
+- Smooth animations
+- Fast build with Vite
+- Component-based architecture
+
+---
+
+## 💼 Project Type
+
+**Client Freelance Project**
+
+This project was developed for a client as a professional freelance website with emphasis on UI/UX, responsiveness, and performance.
+
+---
+
+## 👨‍💻 Developer
+
+**Aakash Srivastava**
+
+Frontend Developer | AI & ML Student
+
+GitHub: https://github.com/yourusername
+
+LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+---
+
+<div align="center">
+
+Made with ❤️ using React & Vite
+
+</div>
