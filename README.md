@@ -12,9 +12,7 @@ A modern, responsive educational website developed as a **Professional Freelance
 
 # 🌐 Live Website
 
-🚀 **Visit the Website:** **https://your-deployment-link.com**
-
-> *Replace this link after deploying the project.*
+🚀 **Visit the Website:** **[https://your-deployment-link.com](https://mathematics-zone.vercel.app/)**
 
 ---
 
