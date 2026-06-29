@@ -4,9 +4,17 @@
 
 ### Official Website for Mathematics Zone Coaching Institute
 
-A modern, responsive educational website developed as a **freelance project** using **React** and **Vite**.
+A modern, responsive educational website developed as a **Professional Freelance Project** using **React** and **Vite**.
 
 </div>
+
+---
+
+# 🌐 Live Website
+
+🚀 **Visit the Website:** **https://your-deployment-link.com**
+
+> *Replace this link after deploying the project.*
 
 ---
 
@@ -31,6 +39,7 @@ This website was built as a **professional freelance project**, with a strong em
 - 📱 Fully Responsive Design
 - 🎨 Smooth Animations
 - 🎭 Custom Cursor & Preloader
+- 🌙 Dark Theme
 - ⚡ Fast Performance with Vite
 
 ---
@@ -42,6 +51,7 @@ This website was built as a **professional freelance project**, with a strong em
 | React | Frontend Framework |
 | Vite | Build Tool |
 | JavaScript (ES6+) | Programming Language |
+| HTML5 | Structure |
 | CSS3 | Styling |
 | GSAP | Animations |
 | Anime.js | Motion Effects |
@@ -74,7 +84,7 @@ src/
 git clone https://github.com/yourusername/mathematics-zone.git
 ```
 
-### Navigate to Project
+### Navigate to the Project
 
 ```bash
 cd mathematics-zone
@@ -86,7 +96,7 @@ cd mathematics-zone
 npm install
 ```
 
-### Start Development Server
+### Run Development Server
 
 ```bash
 npm run dev
@@ -100,29 +110,62 @@ npm run build
 
 ---
 
-## 📸 Website Sections
+# 📸 Website Preview
 
-- Hero Section
-- About the Institute
-- Courses
-- Faculty
-- Student Achievements
-- Quiz Section
-- YouTube Channel
-- Instagram Feed
-- Contact & Inquiry
-- Footer
+## 🏠 Home Page
+
+<p align="center">
+  <img src="./screenshots/home.png" alt="Home Page">
+</p>
+
+---
+
+## 👨‍🏫 About Section
+
+<p align="center">
+  <img src="./screenshots/about.png" alt="About Section">
+</p>
+
+---
+
+## 📚 Courses Section
+
+<p align="center">
+  <img src="./screenshots/courses.png" alt="Courses Section">
+</p>
+
+---
+
+## 📩 Contact Section
+
+<p align="center">
+  <img src="./screenshots/contact.png" alt="Contact Section">
+</p>
+
+---
+
+## 📋 Website Sections
+
+- 🏠 Hero Section
+- 👨‍🏫 About the Institute
+- 📚 Courses
+- 🏆 Student Achievements
+- 🧠 Quiz Section
+- 📺 YouTube Channel
+- 📸 Instagram Feed
+- 📩 Contact & Inquiry
+- 📍 Footer
 
 ---
 
 ## 🎯 Performance
 
-- Responsive across all devices
-- Optimized assets and images
-- Smooth animations
-- Fast build using Vite
-- Component-based architecture
-- Clean and maintainable codebase
+- ✅ Responsive across all devices
+- ✅ Optimized assets and images
+- ✅ Smooth animations
+- ✅ Fast build using Vite
+- ✅ Component-based architecture
+- ✅ Clean and maintainable codebase
 
 ---
 
@@ -136,13 +179,22 @@ This website was designed and developed for **Mathematics Zone Coaching Institut
 
 ## 👨‍💻 Developer
 
-**Aakash Srivastava**
+### **Aakash Srivastava**
 
 Frontend Developer | AI & ML Student
 
-GitHub: https://github.com/yourusername
+- 🌐 GitHub: https://github.com/yourusername
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
 
-LinkedIn: https://linkedin.com/in/yourprofile
+---
+
+## 🙏 Acknowledgement
+
+A heartfelt **thank you to the entire Mathematics Zone Coaching Institute team** for trusting me with this project and giving me the opportunity to develop your official website.
+
+Working on this project has been an incredible learning experience and a significant milestone in my journey as it marks my **first professional freelance project**. I truly appreciate your support, trust, and collaboration throughout the development process.
+
+I wish **Mathematics Zone** continued success in empowering students and shaping future achievers.
 
 ---
 
@@ -154,8 +206,8 @@ If you found this project helpful or inspiring, consider giving it a ⭐ on GitH
 
 <div align="center">
 
-Made with ❤️ by Aakash Srivastava
+### 🚀 First Professional Freelance Project
 
-**First Professional Freelance Project 🚀**
+Made with ❤️ by **Aakash Srivastava**
 
 </div>
